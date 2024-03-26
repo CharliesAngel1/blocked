@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "express": "^4.16.2",
+    "express": "^4.19.2",
     "fetch-on-rest": "^2.0.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
